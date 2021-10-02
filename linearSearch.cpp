@@ -2,9 +2,9 @@
 using namespace std;
 int linearSearch(int arr[],int n,int key){
     for(int i=0;i<n;i++){
-        if(arr[i] == key) return i;
+        if(arr[i] == key) return i;//searching if the current element is equal to the number to be searched
     }
-    return -1;
+    return -1;// if not found returned -1
 }
 
 int main(){
