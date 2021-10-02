@@ -1,2 +1,5 @@
 Hi folks!!!
 Mention here the Algorithms you want us to include :
+
+1. Lower Bound algorithm
+2. Upper Bound algorithm
