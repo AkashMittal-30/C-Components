@@ -1,7 +1,7 @@
 # Cpp-Algorithms
 C++/Cpp algorithm codes.<br/><br>
 <b>Note for viewers:</b><br>
-1. If the algorithm you are searching for is not there, write the algorithm you want in the <i>Requests.txt</i> file in the next line.<br><br>
+1. If the algorithm you are searching for is not there, write the algorithm you want in the <i>Requests.txt</i> file in the next line.<br/><br>
 <b>Note for contributors:</b><br>
 1. Use comments in your codes for viewers to understand properly.<br>
 2. Properly space your codes and change lines.<br>
